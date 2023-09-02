@@ -1,0 +1,7 @@
+this is a simple file to practice git.
+
+
+Github maintains 3 copies of our source code
+1. Working copy
+2. Local copy(Git add, Git commit)
+3. Remote copy(Git push)
